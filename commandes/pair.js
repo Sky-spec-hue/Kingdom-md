@@ -35,7 +35,7 @@ zokou({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363398106360290@newsletter',
-            newsletterName: "bwb-xmd",
+            newsletterName: "KINGDOM-MD",
             serverMessageId: 143
           },
           forwardingScore: 999,
