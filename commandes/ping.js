@@ -37,7 +37,7 @@ zokou({ nomCom: "ping", categorie: "General" }, async (dest, zk, commandeOptions
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363398106360290@newsletter',
-              newsletterName: 'BWB XMD',
+              newsletterName: 'KINGDOM-MD',
               serverMessageId: 143},
         externalAdReply: {
           
