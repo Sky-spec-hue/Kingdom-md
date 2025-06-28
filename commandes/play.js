@@ -107,7 +107,7 @@ zokou({
         },
       },
       {
-      caption: `\n*BWB-XMD*\n
+      caption: `\n*KINGDOM-MD*\n
 `,
         document: { url: downloadUrl },
         mimetype: 'audio/mpeg',
@@ -218,7 +218,7 @@ zokou({
     // Prepare the message payload with external ad details
     const messagePayloads = [
       {
-      caption: `\n*BWB-XMD*\n
+      caption: `\n*KINGDOM-MD*\n
 `,
         video: { url: downloadUrl },
         mimetype: 'video/mp4',
