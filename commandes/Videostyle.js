@@ -24,8 +24,8 @@ zokou({ nomCom: "videostyle", categorie: "search", reaction: "✋" }, async (des
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "BWB XMD",
-        body: "Regards, BWB",
+        title: "KINGDOM-MD",
+        body: "Regards, KOECHII",
         thumbnailUrl: "https://files.catbox.moe/ygvlzy.jpg",
         sourceUrl: "https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610/",
         mediaType: 1,
