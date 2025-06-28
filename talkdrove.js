@@ -61,17 +61,17 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "PRINCE"
+      "value": "KOECHII"
    }, 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255763834140"
+      "value": "254117702463"
    }, 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "BWB-XMD"
+      "value": "KINGDO-MD"
    }, 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
