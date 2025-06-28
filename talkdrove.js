@@ -1,8 +1,8 @@
 
 
 {
-    "bot-name": "BWB-XMD_BOT",
-    "description": "Whiskey Sockets Baileys Whatsapp bot By princetech",
+    "bot-name": "KINGDOM-MD_BOT",
+    "description": "Whiskey Sockets Baileys Whatsapp bot By Koechii",
     "logo": "https://files.catbox.moe/ygvlzy.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://b-w-b-session-id.onrender.com",
