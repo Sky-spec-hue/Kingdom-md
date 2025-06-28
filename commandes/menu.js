@@ -27,7 +27,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     let infoMsg = `╭━━━━━━━━━━━━━⬣
 ┃ 🌟 𝙱𝙾𝚃 𝙸𝙽𝙵𝙾  
 ┃━━━━━━━━━━━━━⬣
-┃ 🔹 ᴮᵒᵗ ᴺᵃᵐᵉ: *BWB XMD*
+┃ 🔹 ᴮᵒᵗ ᴺᵃᵐᵉ: *kNGDOM-MD*
 ┃ 👤 ᵁˢᵉʳ: *🚀${nomAuteurMessage}💥*
 ┃ 📳 ᴹᵒᵈᵉ: *🌍 ${mode}*
 ┃ ⌨ ᴾʳᵉᶠⁱˣ: *[ ${prefixe} ]*
@@ -36,7 +36,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 ┃ ⏳ ᵀⁱᵐᵉ: *${temps}*
 ┃ 🛠 ᶜᵒᵐᵐᵃⁿᵈˢ: *${Object.keys(cm).length}*
 ┃ 📊 ᶜᵃᵖᵃᶜⁱᵗʸ: ${(os.freemem() / 1024 / 1024 / 1024).toFixed(2)} GB/${(os.totalmem() / 1024 / 1024 / 1024).toFixed(2)} GB
-┃ 👑 ᴼʷⁿᵉʳ: *prince*
+┃ 👑 ᴼʷⁿᵉʳ: *Koechii*
 ╰━━━━━━━━━━━━━⬣
 
 ${readMore}
@@ -64,7 +64,7 @@ ${readMore}
         zk.sendMessage(dest, { 
             image: { url: imageUrl }, 
             caption: infoMsg + menuMsg, 
-            footer: "BWB XMD" 
+            footer: "KINGDOM-MD" 
         }, { quoted: ms });
     } catch (e) {
         console.log("🥵 Menu error: " + e);
