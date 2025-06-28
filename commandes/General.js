@@ -56,13 +56,13 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "prince", numero: "255763834140" },
-      { nom: "bwb", numero: "255614545735" },
-      { nom: "HAVEN TECH", numero: "255614545735" },
+      { nom: "kipkoech", numero: "254117702463" },
+      { nom: "koechii", numero: "254117702463" },
+      { nom: "SKYDROID", numero: "254114706710" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO BWB XMD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO KINGDOM-MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -96,7 +96,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING BWB-XMD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[ https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610 ] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[ https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610 ] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://youtube.com/@Prince_tech_official?si=n6lKIy2ViQauVS_n] \n\n\n𝑪𝒓𝒆ated by prince tech") 
+  repondre("THANK YOU FOR CHOOSING kINGDOM-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[ https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610 ] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[ https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610 ] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://youtube.com/@Prince_tech_official?si=n6lKIy2ViQauVS_n] \n\n\n𝑪𝒓𝒆ated by kipkoech Emmanuel") 
   await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING BWB-XMD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
