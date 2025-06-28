@@ -43,7 +43,7 @@ zokou({
   } = _0x20339c;
   const _0x5754a8 = await fetch("https://nekos.life/api/v2/fact");
   const _0x21e127 = await _0x5754a8.json();
-  _0x12e23a(" *BWB-XMD FACT MESSAGE* \n*💠* " + _0x21e127.fact + "\n\n\n\n\n*©Daudy Musa*\n\n╔═════◇\n║◇ *DML MD*\n╚════════════════════>  ");
+  _0x12e23a(" *KINGDOM-MD FACT MESSAGE* \n*💠* " + _0x21e127.fact + "\n\n\n\n\n*©Daudy Musa*\n\n╔═════◇\n║◇ *DML MD*\n╚════════════════════>  ");
 });
 zokou({
   'nomCom': "quote",
